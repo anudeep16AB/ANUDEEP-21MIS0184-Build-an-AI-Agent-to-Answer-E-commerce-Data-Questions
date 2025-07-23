@@ -11,3 +11,4 @@ STEP4:-%%writefile run_agent.py
     4.6 Phase 6: Main AI Agent Function (for command-line interaction)
     4.7 Phase 7: Interactive Command-Line Interface Loop (Entry Point)
     4.8 Phase 8: Close the database connection when the loop exits
+STEP5:-GRAPHICAL REPRESENTATION WHEN QUESTION ASKED IN TERMINAL

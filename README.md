@@ -1,4 +1,7 @@
 # ANUDEEP-21MIS0184-Build-an-AI-Agent-to-Answer-E-commerce-Data-Questions
+<img width="1918" height="1002" alt="image" src="https://github.com/user-attachments/assets/daedbedc-0046-4f3b-8cf2-7c02f5786e94" />
+
+
 STEP1:-DATA CLEANING
 STEP2:-SQL Table creation
 STEP3:-The tables are now created!! So the next step is to pick an LLM or an api key to handle the entire process
